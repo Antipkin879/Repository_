@@ -7,7 +7,8 @@ double A; // Первое число
 double B; // Второе число
 // Функция для ввода первого числа
 void EnterFirstNumber() {
-    
+    cout << "Введите первое число A: ";
+    cin >> A;
 }
 // Функция для ввода второго числа
 void EnterSecondNumber() {
