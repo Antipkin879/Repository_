@@ -22,7 +22,8 @@ void PerformAddition() {
 }
 // Функция для выполнения операции вычитания
 void PerformSubtraction() {
-    
+    double result = A - B;
+    cout << "Результат A - B: " << result << endl;
 }
 // Структура меню
 struct MenuItem {
