@@ -12,7 +12,8 @@ void EnterFirstNumber() {
 }
 // Функция для ввода второго числа
 void EnterSecondNumber() {
-    
+    cout << "Введите второе число B: ";
+    cin >> B;
 }
 // Функция для выполнения операции сложения
 void PerformAddition() {
