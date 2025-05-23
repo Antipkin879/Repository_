@@ -15,7 +15,8 @@ void EnterSecondNumber() {
 }
 // Функция для выполнения операции сложения
 void PerformAddition() {
-    
+    double result = A + B;
+    cout << "Результат A + B: " << result << endl;
 }
 // Функция для выполнения операции вычитания
 void PerformSubtraction() {
